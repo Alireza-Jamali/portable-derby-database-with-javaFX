@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 18 19:37:10 IRDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.2 - (1495037): instance a816c00e-0162-d94b-8e85-00000c0b35e0 
+on database directory F:\aaTasks\Task 14 - JobHours XX\JobHourCalculator\dist\JobHours with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/F:/aaTasks/Task%2014%20-%20JobHours%20XX/JobHourCalculator/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0-b132
+user.dir=F:\aaTasks\Task 14 - JobHours XX\JobHourCalculator\dist
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
